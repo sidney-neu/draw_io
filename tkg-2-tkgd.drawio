@@ -1,15 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T01:14:10.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="9WeivrCobt53WAaOK1zB" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T01:26:18.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="xMbt7clbsdKmZFWe3ueT" version="21.6.3" type="github">
   <diagram name="第 1 页" id="nwnW5eL0SsdfpGa8sib5">
-    <mxGraphModel dx="2796" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8350" dy="2984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="n1T2FooysK7BnJ97oA4Y-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="1100" as="sourcePoint" />
-            <mxPoint x="810" y="1100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="n1T2FooysK7BnJ97oA4Y-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n1T2FooysK7BnJ97oA4Y-9" target="n1T2FooysK7BnJ97oA4Y-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="235" y="410" as="sourcePoint" />
@@ -331,7 +325,7 @@
             <mxPoint x="245" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n1T2FooysK7BnJ97oA4Y-87" value="Technique Knowledge Graph (TKG)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F6F6F6;" vertex="1" parent="1">
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-87" value="Technique Knowledge Graph (TKG)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F6F6F6;strokeColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="120" y="1040" width="480" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n1T2FooysK7BnJ97oA4Y-88" value="Info" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
@@ -667,6 +661,15 @@
         <mxCell id="n1T2FooysK7BnJ97oA4Y-175" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;shadow=0;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="696" y="2320" width="574" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-209" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n1T2FooysK7BnJ97oA4Y-183" target="n1T2FooysK7BnJ97oA4Y-204">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-750" y="2290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-890" y="1725" />
+              <mxPoint x="-890" y="2875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="n1T2FooysK7BnJ97oA4Y-183" value="&lt;div align=&quot;justify&quot; style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 18px; line-height: 24px;&quot;&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;Path,Cmd&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;: &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;pattern&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;: &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;Path&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;(admin.exe)|(wmic)|(bcdedit.exe)&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;Cmd&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;(&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;shadow)|(wbadmin.exe&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;delete&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;catalog&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;-quiet)|(bcdedit.exe&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;/set&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;recoveryenabled&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;no)&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }, &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;msg&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;Path&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;: &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; [&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style=&quot;color: #f44747;&quot;&gt;&#39;vssadmin.exe&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;wmic&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;wbadmin.exe&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;bcdedit.exe&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ], &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;Cmd&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;: &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; [&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;vssadmin.exe&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;delete&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;shadows&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;/all&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;/quiet&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;wmic&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;shadowcopy&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;delete&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;wbadmin.exe&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;delete&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;catalog&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;-quiet&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;bcdedit.exe&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;/set&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;recoveryenabled&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;no&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; }, &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;Path&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;: &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;pattern&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;: &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;Path&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;(reagentc.exe)|(wmi)|(psexec)&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }, &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;msg&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;: &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;Path&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;: &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; [&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;REAgentC.exe&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;PsExec&#39;&lt;/span&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: #f44747;&quot;&gt;&#39;WMI&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; }&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;&amp;nbsp; &amp;nbsp; }&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-740" y="1240" width="570" height="970" as="geometry" />
         </mxCell>
@@ -709,8 +712,108 @@
         <mxCell id="n1T2FooysK7BnJ97oA4Y-199" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=east;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-20" y="1933" width="50" height="197" as="geometry" />
         </mxCell>
-        <mxCell id="n1T2FooysK7BnJ97oA4Y-204" value="{&lt;br&gt;&lt;div align=&quot;justify&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;1490000119&quot;: &quot;((?:[\\S\\s]*Path: .*((admin.exe)|(wmic)|(bcdedit.exe)))(?:[\\S\\s]*Cmd: .*(( shadow)|(wbadmin.exe delete catalog -quiet)|(bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures &amp;amp; bcdedit /set {default} recoveryenabled no))))|((?:[\\S\\s]*Path: .*((wmi)|(reagentc.exe)|(psexec))))&quot;&lt;br&gt;&lt;/div&gt;}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="2369" width="590" height="60" as="geometry" />
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-204" value="&lt;div align=&quot;justify&quot;&gt;{&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;1490000119&quot;: &quot;((?:[\\S\\s]*Path: .*((admin.exe)|(wmic)|(bcdedit.exe)))(?:[\\S\\s]*Cmd: .*(( shadow)|(wbadmin.exe delete catalog -quiet)|(bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures &amp;amp; bcdedit /set {default} recoveryenabled no))))|((?:[\\S\\s]*Path: .*((wmi)|(reagentc.exe)|(psexec))))&quot;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-801" y="2840" width="880" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-205" value="&lt;div align=&quot;justify&quot;&gt;{&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &quot;1490000119&quot;: &quot;((?:[\\S\\s]*Path: .*((admin.exe)|(wmic)|(bcdedit.exe)))(?:[\\S\\s]*Cmd: .*(( shadow)|(wbadmin.exe delete catalog -quiet)|(bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures &amp;amp; bcdedit /set {default} recoveryenabled no))))|((?:[\\S\\s]*Path: .*((wmi)|(reagentc.exe)|(psexec))))&quot;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-801" y="3002" width="880" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-206" value="&lt;font style=&quot;font-size: 72px;&quot;&gt;. . .&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-483" y="2921" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-210" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="97" y="2840" width="50" height="261" as="geometry" />
+        </mxCell>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-211" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Pattern Table&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="2955" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-212" value="" style="endArrow=none;dashed=1;html=1;rounded=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="1930" as="sourcePoint" />
+            <mxPoint x="220" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-213" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="1930" as="sourcePoint" />
+            <mxPoint x="220" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-214" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="1930" as="sourcePoint" />
+            <mxPoint x="220" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-215" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="1930" as="sourcePoint" />
+            <mxPoint x="220" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-216" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="1930" as="sourcePoint" />
+            <mxPoint x="220" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-217" value="" style="endArrow=none;html=1;rounded=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="1930" as="sourcePoint" />
+            <mxPoint x="220" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-218" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1420" y="1110" as="sourcePoint" />
+            <mxPoint x="1490" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-219" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1420" y="1120" as="sourcePoint" />
+            <mxPoint x="1490" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-220" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1510" y="2650" as="sourcePoint" />
+            <mxPoint x="1400" y="2650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-221" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1510" y="2660" as="sourcePoint" />
+            <mxPoint x="1400" y="2660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="" id="n1T2FooysK7BnJ97oA4Y-222">
+          <mxCell style="shape=doubleArrow;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+            <mxGeometry x="-1390" y="1130" width="60" height="1510" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-224" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;TKGD&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="1870" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-225" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1540" y="3240" as="sourcePoint" />
+            <mxPoint x="1370" y="3240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-226" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#0000FF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1540" y="3250" as="sourcePoint" />
+            <mxPoint x="1370" y="3250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="" id="n1T2FooysK7BnJ97oA4Y-227">
+          <mxCell style="shape=doubleArrow;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+            <mxGeometry x="-1390" y="2680" width="60" height="550" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="n1T2FooysK7BnJ97oA4Y-228" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;TKGA&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1460" y="2930" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
