@@ -1,9 +1,64 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.8">
   <diagram name="第 1 页" id="SgDVBNhGZx0lES20clCU">
-    <mxGraphModel>
+    <mxGraphModel dx="1126" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="m1qxz4_ZbwNuu72jMwje-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1qxz4_ZbwNuu72jMwje-2" target="m1qxz4_ZbwNuu72jMwje-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1qxz4_ZbwNuu72jMwje-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1qxz4_ZbwNuu72jMwje-2" target="m1qxz4_ZbwNuu72jMwje-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="300" />
+              <mxPoint x="400" y="139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1qxz4_ZbwNuu72jMwje-2" value="Rule Engine" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.rule_2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="255" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="m1qxz4_ZbwNuu72jMwje-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1qxz4_ZbwNuu72jMwje-5" target="m1qxz4_ZbwNuu72jMwje-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1qxz4_ZbwNuu72jMwje-5" value="Code File" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.source_code;" vertex="1" parent="1">
+          <mxGeometry x="130" y="261" width="57" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="m1qxz4_ZbwNuu72jMwje-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1qxz4_ZbwNuu72jMwje-11" target="m1qxz4_ZbwNuu72jMwje-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1qxz4_ZbwNuu72jMwje-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1qxz4_ZbwNuu72jMwje-11" target="m1qxz4_ZbwNuu72jMwje-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="139" />
+              <mxPoint x="570" y="-1" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m1qxz4_ZbwNuu72jMwje-11" value="AI Model" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#000000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="1">
+          <mxGeometry x="440" y="100" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="m1qxz4_ZbwNuu72jMwje-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="261" width="57" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="m1qxz4_ZbwNuu72jMwje-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png;imageBackground=#ff0000;" vertex="1" parent="m1qxz4_ZbwNuu72jMwje-13">
+          <mxGeometry x="36" y="57" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="m1qxz4_ZbwNuu72jMwje-9" value="Webshell" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ff0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.source_code;" vertex="1" parent="m1qxz4_ZbwNuu72jMwje-13">
+          <mxGeometry width="57" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="m1qxz4_ZbwNuu72jMwje-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="620" y="100" width="57" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="m1qxz4_ZbwNuu72jMwje-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack/110/Hacker-128.png;imageBackground=#ff0000;" vertex="1" parent="m1qxz4_ZbwNuu72jMwje-14">
+          <mxGeometry x="36" y="57" width="18" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="m1qxz4_ZbwNuu72jMwje-16" value="Obfuscated Webshell" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ff0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.source_code;" vertex="1" parent="m1qxz4_ZbwNuu72jMwje-14">
+          <mxGeometry width="57" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="m1qxz4_ZbwNuu72jMwje-18" value="Code File Filter" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#000000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.filtering_rule;" vertex="1" parent="1">
+          <mxGeometry x="609.5" y="-40" width="78" height="78" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
