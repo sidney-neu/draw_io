@@ -162,8 +162,8 @@
         <mxCell id="Vhl1V9awJjkGygBBbTkd-47" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; data-slate-fragment=&quot;JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJWN0RMTUFLTGd6JTIyJTJDJTIycGFyYUlkeCUyMiUzQTAlMkMlMjJzcmMlMjIlM0ElMjIlRTQlQjglODklRTUlODUlODMlRTclQkIlODQlMjIlMkMlMjJkc3QlMjIlM0ElMjJUcmlwbGV0JTIyJTJDJTIybWV0YWRhdGElMjIlM0ElMjIlMjIlMkMlMjJtZXRhRGF0YSUyMiUzQSU1QiU1RCUyQyUyMnRleHQlMjIlM0ElMjIlRTQlQjglODklRTUlODUlODMlRTclQkIlODQlMjIlN0QlNUQlN0QlNUQ=&quot;&gt;域名三元组&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Vhl1V9awJjkGygBBbTkd-53">
           <mxGeometry x="110" y="138" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Vhl1V9awJjkGygBBbTkd-54" value="&lt;code&gt;$$\sqrt{3×-1}+(1+x)^2$$&lt;/code&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="755" width="60" height="30" as="geometry" />
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-55" value="&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$$\sqrt{3×-1}+(1+x)^2$$&lt;/code&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="820" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
