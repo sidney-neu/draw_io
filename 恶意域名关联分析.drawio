@@ -80,7 +80,7 @@
         <mxCell id="Vhl1V9awJjkGygBBbTkd-15" value="灰域名数据" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#CCCCCC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.csv_file;" vertex="1" parent="1">
           <mxGeometry x="522" y="300" width="59" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="Vhl1V9awJjkGygBBbTkd-21" value="域名白名单过滤" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.enterprise.filter" vertex="1" parent="1">
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-21" value="白名单过滤" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.enterprise.filter" vertex="1" parent="1">
           <mxGeometry x="740" y="367" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Vhl1V9awJjkGygBBbTkd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.016;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vhl1V9awJjkGygBBbTkd-14" target="Vhl1V9awJjkGygBBbTkd-21">
@@ -105,18 +105,6 @@
         <mxCell id="Vhl1V9awJjkGygBBbTkd-26" value="域名过滤" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="738" y="325" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Vhl1V9awJjkGygBBbTkd-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="380" as="sourcePoint" />
-            <mxPoint x="570" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Vhl1V9awJjkGygBBbTkd-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="380" as="sourcePoint" />
-            <mxPoint x="570" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Vhl1V9awJjkGygBBbTkd-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-36" y="454" as="sourcePoint" />
@@ -125,6 +113,18 @@
         </mxCell>
         <mxCell id="Vhl1V9awJjkGygBBbTkd-33" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;数据层&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-34" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;分析层&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-36" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#505050;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=node" vertex="1" parent="1">
+          <mxGeometry x="726.98" y="512" width="76.04" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vhl1V9awJjkGygBBbTkd-21" target="Vhl1V9awJjkGygBBbTkd-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-38" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Vertex：{&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#39;WhoisRecord&#39;:&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;...&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#39;domain_type&#39;: &#39;grey&#39;,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#39;domain_level&#39;: 0,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#39;domain_name&#39;: &#39;vbp.cc&#39;,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#39;registrant name&#39;: &#39;Digital Crimes Unit&#39;,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#39;registrant organization&#39;: &#39;Microsoft Corporation&#39;,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#39;registrant street&#39;: &#39;One Microsoft Way,&#39;,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#39;registrant city&#39;: &#39;Redmond&#39;,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#39;registrant state/province&#39;: &#39;WA&#39;,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#39;registrant postal code&#39;: &#39;98052&#39;,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#39;registrant country&#39;: &#39;UNITED STATES&#39;,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#39;registrant phone&#39;: &#39;14258828080&#39;,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#39;registrant fax&#39;: &#39;&#39;,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#39;registrant email&#39;: &#39;domains@microsoft.com&#39;,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#39;black_domain_neighbor_cnt&#39;: 49,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#39;black_domain_list&#39;: [...],&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&#39;danger_node&#39;: True&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;...&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;3&quot;&gt;}&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="690" width="310" height="550" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
