@@ -1,9 +1,131 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.7.12">
   <diagram name="第 1 页" id="f-k2V3iN0EAQ3JiPRA0q">
-    <mxGraphModel>
+    <mxGraphModel dx="2382" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <object label="" id="Vhl1V9awJjkGygBBbTkd-8">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vhl1V9awJjkGygBBbTkd-2" target="Vhl1V9awJjkGygBBbTkd-7">
+            <mxGeometry relative="1" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-9" value="数据下发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vhl1V9awJjkGygBBbTkd-8">
+          <mxGeometry x="-0.0013" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-2" value="数据湖" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#505050;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_lake_resource_icon;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vhl1V9awJjkGygBBbTkd-3" target="Vhl1V9awJjkGygBBbTkd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-6" value="触发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vhl1V9awJjkGygBBbTkd-5">
+          <mxGeometry x="-0.1586" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-3" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="135" y="50" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-4" value="定时任务" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.scheduled_tasks;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="Vhl1V9awJjkGygBBbTkd-3">
+          <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
+            <mxPoint x="5" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vhl1V9awJjkGygBBbTkd-7" target="Vhl1V9awJjkGygBBbTkd-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="220" />
+              <mxPoint x="470" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vhl1V9awJjkGygBBbTkd-7" target="Vhl1V9awJjkGygBBbTkd-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="220" />
+              <mxPoint x="470" y="116" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vhl1V9awJjkGygBBbTkd-7" target="Vhl1V9awJjkGygBBbTkd-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="220" />
+              <mxPoint x="470" y="322" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-7" value="DNS数据" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.csv_file;" vertex="1" parent="1">
+          <mxGeometry x="354" y="198.5" width="59" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vhl1V9awJjkGygBBbTkd-10" target="Vhl1V9awJjkGygBBbTkd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-12" value="数据富化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vhl1V9awJjkGygBBbTkd-11">
+          <mxGeometry x="0.0514" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-10" value="威胁情报平台" style="fillColor=#505050;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.threat_intelligence;" vertex="1" parent="1">
+          <mxGeometry x="348.5" y="9" width="70" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-13" value="黑域名数据" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.csv_file;" vertex="1" parent="1">
+          <mxGeometry x="522" y="198.5" width="59" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-14" value="白域名数据" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#00FF00;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.csv_file;" vertex="1" parent="1">
+          <mxGeometry x="522" y="94" width="59" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-15" value="灰域名数据" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#CCCCCC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.csv_file;" vertex="1" parent="1">
+          <mxGeometry x="522" y="300" width="59" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-21" value="域名白名单过滤" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.enterprise.filter" vertex="1" parent="1">
+          <mxGeometry x="740" y="367" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.016;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vhl1V9awJjkGygBBbTkd-14" target="Vhl1V9awJjkGygBBbTkd-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="116" />
+              <mxPoint x="870" y="396" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-23" value="构建白名单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vhl1V9awJjkGygBBbTkd-22">
+          <mxGeometry x="-0.4003" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.544;entryY=-0.049;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vhl1V9awJjkGygBBbTkd-13" target="Vhl1V9awJjkGygBBbTkd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.544;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vhl1V9awJjkGygBBbTkd-15" target="Vhl1V9awJjkGygBBbTkd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-26" value="域名过滤" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="738" y="325" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="380" as="sourcePoint" />
+            <mxPoint x="570" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="380" as="sourcePoint" />
+            <mxPoint x="570" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-36" y="454" as="sourcePoint" />
+            <mxPoint x="904" y="454" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vhl1V9awJjkGygBBbTkd-33" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;数据层&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
