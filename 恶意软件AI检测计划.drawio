@@ -271,7 +271,7 @@
         <mxCell id="241" value="" style="strokeColor=#DEEDFF;fillColor=#D4E1FF" parent="1" vertex="1">
           <mxGeometry x="1646.5" y="380" width="20" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="2" value="Task Name" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="2" value="恶意软件静态分析研究计划" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="220" y="340" width="226.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3" value="" style="fillColor=#23445D;strokeColor=#FFFFFF;strokeWidth=2;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
